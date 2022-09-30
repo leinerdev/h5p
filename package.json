@@ -18,6 +18,10 @@
     "@angular/platform-browser": "^14.2.0",
     "@angular/platform-browser-dynamic": "^14.2.0",
     "@angular/router": "^14.2.0",
+    "@lumieducation/h5p-server": "^9.2.0",
+    "@lumieducation/h5p-webcomponents": "^9.2.0",
+    "cache-manager": "^5.0.0",
+    "lru-cache": "^7.14.0",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
